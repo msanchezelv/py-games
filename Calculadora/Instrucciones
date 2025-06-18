@@ -1,0 +1,22 @@
+Pasos a seguir:
+1. Pantalla principal
+    import tkinter
+    crear ventana principal
+2. Visor
+3. Botones
+4. Función operaciones
+5. Limpiar visor
+6. Calcular resultados
+7. Resetear
+8. Estilo visual
+9. Empaquetar
+
+
+
+Colores:
+#a89fe9 Lavanda = bg
+#e9a9e7 rosa lila = visor
+#f7b7d9 rosita medio
+#fbc8d4 rosa claro
+#f7e8d2 amarillo
+#b8ccf8 azul
